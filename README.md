@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coldplay355
+- 👋 Hi, I’m Ibrahim Adedeji
 - 👀 I’m interested in learnnig 
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to get guidance and advice from proffessionals here
